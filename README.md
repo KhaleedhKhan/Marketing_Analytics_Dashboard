@@ -100,11 +100,6 @@ END
 
 🔗 **[View the Live Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/2c543769-b616-4397-8b33-c4b9a1f05882)**
 
-
-_Optional: Add a screenshot preview below if you want._
-
-```markdown
-![Dashboard Screenshot](assets/dashboard-screenshot.png)
 ```
 
 ---
