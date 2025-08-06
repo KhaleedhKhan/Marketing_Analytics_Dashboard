@@ -100,7 +100,6 @@ END
 
 🔗 **[View the Live Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/2c543769-b616-4397-8b33-c4b9a1f05882)**
 
-> *(Make sure the dashboard is set to “Anyone with the link can view” to allow access)*
 
 _Optional: Add a screenshot preview below if you want._
 
